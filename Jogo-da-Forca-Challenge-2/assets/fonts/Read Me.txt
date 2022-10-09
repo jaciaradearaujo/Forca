@@ -1,0 +1,12 @@
+Abra *demo.html* para ver uma lista de todos os glifos em sua fonte junto com seus códigos/ligaturas.
+
+Para usar a fonte gerada em programas de desktop, você pode instalar a fonte TTF. 
+Para copiar o caractere associado a cada ícone, consulte a caixa de texto no canto inferior direito de 
+cada glifo em demo.html. O caractere dentro desta caixa de texto pode ser invisível; mas ainda pode ser copiado. 
+Veja este guia para mais informações: https://icomoon.io/#docs/local-fonts
+
+Você não precisará de nenhum dos arquivos localizados no diretório *demo-files* ao incluir a fonte gerada em seus 
+próprios projetos.
+
+Você pode importar *selection.json* de volta para o aplicativo IcoMoon usando o botão *Importar Ícones* 
+(ou via Menu Principal → Gerenciar Projetos) para recuperar sua seleção de ícones.
